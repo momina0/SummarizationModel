@@ -25,7 +25,8 @@ Option to deploy via Kaggle, Colab, or Hugging Face Spaces
 
 Dataset format:
 Each CSV file (train, validation, test) should contain:
-
+Dataset : https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-
+cnn-dailymail
 article, summary
 
 
